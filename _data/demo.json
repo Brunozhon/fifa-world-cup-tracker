@@ -17,5 +17,10 @@
     "type": "yellow_card",
     "player": "A player's name",
     "text": "More information."
+  },
+  {
+    "type": "red_card",
+    "player": "A player's name",
+    "text": "More information."
   }
 ]
