@@ -1,6 +1,15 @@
 [
   {
     "type": "commentary",
-    "text": "..."
+    "text": "The text of the comment."
+  },
+  {
+    "type": "insight",
+    "text": "A fun fact!"
+  },
+  {
+    "type": "sub",
+    "in": "A player's name",
+    "out": "A player's name"
   }
 ]
