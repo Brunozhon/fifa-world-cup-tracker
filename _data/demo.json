@@ -25,6 +25,7 @@
   },
   {
     "type": "goal",
-    "player": "A player's name"
+    "player": "A player's name",
+    "is_penalty": false
   }
 ]
