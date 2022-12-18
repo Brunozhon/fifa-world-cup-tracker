@@ -1,31 +1,38 @@
 [
   {
     "type": "commentary",
-    "text": "The text of the comment."
+    "text": "The text of the comment.",
+    "time": 5
   },
   {
     "type": "insight",
-    "text": "A fun fact!"
+    "text": "A fun fact!",
+    "time": 5
   },
   {
     "type": "sub",
     "in": "A player's name",
     "out": "A player's name",
-    "text": "More information."
+    "text": "More information.",
+    "time": 5
   },
   {
     "type": "yellow_card",
     "player": "A player's name",
-    "text": "More information."
+    "text": "More information.",
+    "time": 5
   },
   {
     "type": "red_card",
     "player": "A player's name",
-    "text": "More information."
+    "text": "More information.",
+    "time": 5
   },
   {
     "type": "goal",
     "player": "A player's name",
-    "is_penalty": false
+    "is_penalty": false,
+    "text": "More information.",
+    "time": 5
   }
 ]
