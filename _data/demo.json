@@ -34,5 +34,16 @@
     "is_penalty": false,
     "text": "More information.",
     "time": "5"
+  },
+  {
+    "type": "penalty_shootout",
+    "players": {
+      "team1": [],
+      "team2": []
+    },
+    "scores": {
+      "team1": [true, false, false, true, "optional"],
+      "team2": []
+    }
   }
 ]
