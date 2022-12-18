@@ -22,5 +22,9 @@
     "type": "red_card",
     "player": "A player's name",
     "text": "More information."
+  },
+  {
+    "type": "goal",
+    "player": "A player's name"
   }
 ]
