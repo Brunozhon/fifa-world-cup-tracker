@@ -10,5 +10,33 @@
   {
     "name": "Paulo Dybala",
     "position": "forward"
+  },
+  {
+    "name": "Emiliano Martínez",
+    "position": "goalkeeper"
+  },
+  {
+    "name": "Lisandro Martínez",
+    "position": "defender"
+  },
+  {
+    "name": "Rodrigo De Paul",
+    "position": "midfielder"
+  },
+  {
+    "name": "Ángel Di María",
+    "position": "midfielder"
+  },
+  {
+    "name": "Lautaro Martínez",
+    "position": "forward"
+  },
+  {
+    "name": "Alexis Mac Alliser",
+    "position": "midfielder"
+  },
+  {
+    "name": "Enzo Fernández",
+    "position": "midfielder"
   }
 ]
