@@ -10,6 +10,12 @@
   {
     "type": "sub",
     "in": "A player's name",
-    "out": "A player's name"
+    "out": "A player's name",
+    "text": "More information."
+  },
+  {
+    "type": "yellow_card",
+    "player": "A player's name",
+    "text": "More information."
   }
 ]
